@@ -1,0 +1,13 @@
+body{
+    max-width:1060px;
+    margin:0 auto;
+    padding-left:10px;
+    padding-right:10px;
+    font-family:Fira Code,Monaco,Consolas,Ubuntu Mono,PingFang SC,Hiragino Sans GB,Microsoft YaHei,WenQuanYi Micro Hei,monospace,sans-serif;
+}
+.item{
+    width:1;
+    overflow:hidden; 
+    white-space:nowrap; 
+    text-overflow:ellipsis;
+}
