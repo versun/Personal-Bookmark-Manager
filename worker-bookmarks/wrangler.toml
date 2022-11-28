@@ -1,0 +1,8 @@
+name = "worker-bookmarks"
+main = "src/index.ts"
+compatibility_date = "2022-11-22"
+
+[[ d1_databases ]]
+binding = "DB" # i.e. available in your Worker on env.DB
+database_name = "d1_bookmarks"
+database_id = "3293ed1a-11cd-492b-ac64-f65a14d400d8"
